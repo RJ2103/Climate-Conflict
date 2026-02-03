@@ -1,0 +1,21 @@
+# Core numerical stack
+numpy
+pandas
+scipy
+
+# Climate & NetCDF handling
+xarray
+netCDF4
+h5netcdf
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics & ML
+statsmodels
+scikit-learn
+
+# Notebooks
+jupyter
+ipykernel
